@@ -270,14 +270,6 @@ The system includes comprehensive error handling:
 }
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 Requirements
 
 ### Core Dependencies
@@ -320,29 +312,3 @@ sudo apt-get install tesseract-ocr-eng
 ```bash
 python -m spacy download en_core_web_sm
 ```
-
-**Memory Issues:**
-- Use Quick Start mode for basic processing
-- Process files individually instead of batch processing
-- Increase system swap space
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🔮 Future Enhancements
-
-- Multi-language support
-- Custom entity recognition training
-- Advanced document similarity analysis
-- Integration with document management systems
-- REST API development
-- Docker containerization
-
-## 📧 Contact
-
-For questions, issues, or contributions, please open an issue in the repository.
-
----
-
-**Note**: This system is designed for research and educational purposes. Ensure you have appropriate permissions when processing documents, especially those containing sensitive information.
